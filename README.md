@@ -11,7 +11,7 @@ We are given an hour at state level to develop the piece of code given on the pr
 
 Although the code appears to be a short and simple solution, much of your time in the room is spent analyzing the prompt for details that could be overlooked and acquire penalties against your score. 
 
-This prompt specifically catered to computing the optimal change to return to a client.
+This prompt specifically catered to computing the optimal change to return to a client. This is code similar to what you'd see written for a cash register, or change machine (which was literally the name of the prompt).
 
 ### How did it rank?
 First in the State of Texas.
